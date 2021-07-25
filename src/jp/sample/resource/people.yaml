@@ -1,0 +1,3 @@
+- !!jp.sample.entities.Person {age: 28, famiryName: Kay, firstName: Jhon, nationality: UK}
+- !!jp.sample.entities.Person {age: 28, famiryName: Hall, firstName: Don, nationality: US}
+- !!jp.sample.entities.Person {age: 28, famiryName: Rodriguez, firstName: Ken, nationality: AR}
